@@ -26,7 +26,7 @@ After you have perform the above step Now you can use this software as much as y
 * choose any empty directory on your pc
 * open that directory in the terminal/cmd
 * Type efs
-* Then enter the full path of a file. This file will act as a key so make sure nobody else knows about this file. This file could be any file you want but make sure to never delete this file because otherwise all the encrypted data will be lost.
+* Then enter the full path of a file. This file will act as a key so make sure nobody else knows about this file. This file could be any file you want but make sure to never delete this file because otherwise all the encrypted data will be lost. After this everytime you want to access you saved file you will use this file as key. 
 * For the first time it will take some time to intialise
 * Now you will se "type something" on your prompt
 
