@@ -31,18 +31,18 @@ After you have perform the above step Now you can use this software as much as y
 * Now you will se "type something" on your prompt
 
 
-After this you have three types of command which you can type anytime
- * add_new : to add new content to the file system. It will prompt you with a empty directory move all the files (remember only files can be pasted into this empty folder no directories allowed) which you want to encrypt to this folder. After moving go back to terminal/cmd and Now you have two option. Either you can add files to already existing folders in virtual file system. For that choose any number from the shown list. Intially it would only be 0. main folder there. Otherwise you can make a new directory for that just write any name you want to give to the directory. After that press enter. It will take some time for encrption. 
+After this you have four types of command which you can type anytime
+ * **add_new** : to add new content to the file system. It will prompt you with a empty directory move all the files (**remember only files can be pasted into this empty folder no directories allowed**) which you want to encrypt to this folder. After moving go back to terminal/cmd and Now you have two option. Either you can add files to already existing folders in virtual file system. For that choose any number from the shown list. Intially it would only be 0. main folder there. Otherwise you can make a new directory for that just write any name you want to give to the directory. After that press enter. It will take some time for encrption. 
  
- * show_folders : by typing this you can see all the folder which are currently present on you efs. type the number to go inside the folder. Then it will show you all the files choose any file with the index . 
+ * **show_folders** : by typing this you can see all the folder which are currently present on you efs. type the number to go inside the folder. Then it will show you all the files choose any file with the index . 
  
- * search : after type search you can search via any substring which your file may have. it will give you the list of the files.
- * quit : To quit never use ctrl+c or cross button. Always use quit as it will clean the decrypted file.
+ * **search** : after type search you can search via any substring which your file may have. it will give you the list of the files.
+ * **quit** : To quit never use ctrl+c or cross button. Always use quit as it will clean the decrypted file.
 
 Now whenever a files is selected three options are there 
-* decrypt : to decrypt the file
-* rename: to rename the file 
-* delete : to delete the file
+* **decrypt** : to decrypt the file
+* **rename**: to rename the file 
+* **delete** : to delete the file
 
 
 
