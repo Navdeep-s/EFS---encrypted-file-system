@@ -500,7 +500,7 @@ class dic_handler():
 key_path = input("enter the ingeredient")
 # key_path= "..\\some.py"
 
-print("asdfahsldkjfhaksdf")
+# print("asdfahsldkjfhaksdf")
 if(not os.path.exists(key_path)  or os.path.isdir(key_path)):
 			print("please provide a file path of the key not directory")
 			sys.exit(1)
